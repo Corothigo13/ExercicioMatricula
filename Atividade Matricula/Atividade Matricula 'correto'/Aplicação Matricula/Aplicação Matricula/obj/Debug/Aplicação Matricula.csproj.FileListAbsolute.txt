@@ -1,0 +1,50 @@
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe.config
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form1.resources
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Matricula.resources
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Properties.Resources.resources
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Administrar.resources
+C:\Users\1067510\Desktop\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Pesquisar.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe.config
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form1.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Administrar.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Matricula.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Pesquisar.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Properties.Resources.resources
+C:\Users\1067510\Desktop\Matricula\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe.config
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form1.resources
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Administrar.resources
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Matricula.resources
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Pesquisar.resources
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Properties.Resources.resources
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\90806e6f-044f-49ac-a93d-cb388e5b28ff_1592186_P5_Thiago Augusto Colina de Moraes\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_confirmaçãoMatricula.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe.config
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.exe
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\bin\Debug\Aplicação Matricula.pdb
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form1.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Administrar.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_confirmaçãoMatricula.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Matricula.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Form_Pesquisar.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação_Matricula.Properties.Resources.resources
+C:\Users\1067510\Desktop\Atividade Matricula 'correto'\Aplicação Matricula\Aplicação Matricula\obj\Debug\Aplicação Matricula.csproj.GenerateResource.Cache
